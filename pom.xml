@@ -26,7 +26,7 @@
   <repositories>
     <repository>
       <id>bamoe-maven-repo-keycloak</id>
-      <url>https://bamoe-maven-repo-timothywuthenow-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/</url>
+      <url>http://localhost:31000/</url>
     </repository>
   </repositories>
   <dependencyManagement>
